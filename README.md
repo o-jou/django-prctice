@@ -5,5 +5,5 @@ poll app by django with Bootstrap.
 Django documentation
 
 # versions
-django==1.11
+django==1.11　　
 python==3.6.3
